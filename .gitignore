@@ -1,0 +1,9 @@
+# Twoje wpisy (Audio i Środowisko)
+*.wav
+**/*.wav
+/.venv
+venv/
+ENV/
+
+# Pliki IDE (PyCharm)
+.idea/
